@@ -1,0 +1,2 @@
+# Histogram Generator
+## for Wordle
